@@ -3,3 +3,4 @@
 *.log
 iOSApp/build
 iOSApp/ActualAccounts.xcodeproj
+.DS_Store
